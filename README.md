@@ -1,6 +1,6 @@
 ### ProjectUAS-Grafkom-Kelompok6
-|  |  |  |
-|--|--|--|
+|  |  | 
+|--|--|
 | **Tema** | Kebangsaan
 | **Judul** | Bhineka Tunggal Ika
 | **Kelas** | Teknik Informatika 4-B
