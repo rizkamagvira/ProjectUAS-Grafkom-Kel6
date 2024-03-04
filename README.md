@@ -2,8 +2,8 @@
 |  |  |  |
 |--|--|--|
 |**Nama Kelompok**| Rizka Magvira | 21104410089 |
-|  | Rizka Magvira | 21104410089 |
-|  | Rizka Magvira | 21104410089 |
-| **Tema** | Tampilkan Tanggal dan Waktu Hari Ini | Mengetahui Tanggal dan Waktu Pada Saat Ini |
-| **Judul** | Tampilkan Kalender Saat Ini | Mengetahui Kalender pada Saat Ini |
-| **Dosen Pengampu** | Keluar Dari Menuku | Keluar dari Menuku dan Mengakhiri Program|
+|  | Kharisma Dinda Amareta | 21104410055 |
+|  | Arni Nazira | 21104410077 |
+| **Tema** | Kebangsaan |
+| **Judul** | Bhineka Tunggal Ika |
+| **Dosen Pengampu** | [Udkhiati Mawaddah,S.Kom.,M.kom] |
